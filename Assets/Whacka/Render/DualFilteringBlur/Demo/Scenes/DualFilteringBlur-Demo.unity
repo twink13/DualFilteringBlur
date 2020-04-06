@@ -687,6 +687,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 233f2ad3faa7c4d7c90526d7ad4b20a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DownSampleTimes: 7
+  DownSampleTimes: 4
   DownSampleMaterial: {fileID: 2100000, guid: 2522bf683b42945c0947c307aacb0b65, type: 2}
   DebugRT: {fileID: 0}
